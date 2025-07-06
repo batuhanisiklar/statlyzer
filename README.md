@@ -69,7 +69,7 @@ data-stats-analyzer/
 To install dependencies:
 
 ```bash
-pip install -r requriements.txt
+pip install -r requirements.txt
 ```
 
 ---
