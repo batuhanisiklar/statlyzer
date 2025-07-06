@@ -1,0 +1,33 @@
+Statistics for column Yas:
+Arithmetic Mean: 44.01
+Median: 43.5
+Mode: [61]
+Range: 52
+Mean Absolute Deviation: 12.8302
+Variance: 226.73727272727277
+Standard Deviation: 15.057797738290708
+Coefficient of Variation: 0.34214491566213834
+Interquartile Range: 25
+
+Statistics for column Gelir:
+Arithmetic Mean: 6435.61
+Median: 6720.5
+Mode: [9176]
+Range: 6857
+Mean Absolute Deviation: 1855.4533999999996
+Variance: 4442615.432222222
+Standard Deviation: 2107.7512738039613
+Coefficient of Variation: 0.3275138291170474
+Interquartile Range: 4093
+
+Statistics for column Gider:
+Arithmetic Mean: 2978.56
+Median: 3051.0
+Mode: [3026, 3167, 1768, 2264, 1042, 4505, 4329, 1608, 1148, 4826, 2334, 3652, 1691, 2030, 3608, 4871, 3622, 1390, 3865, 3909, 4356, 1317, 1324, 4115, 3389, 1380, 2852, 3923, 3791, 2302, 4060, 2612, 4092, 3177, 3991, 3844, 1636, 4654, 4110, 4027, 4046, 3729, 1769, 3063, 2982, 3459, 3234, 2928, 3187, 4705, 2977, 4854, 2537, 1127, 4982, 2020, 2179, 1358, 3143, 4414, 4895, 2468, 3480, 2934, 4704, 1388, 3945, 3334, 3399, 3827, 1916, 3772, 1802, 1100, 4710, 1503, 3039, 4719, 2008, 3655, 2579, 2002, 2520, 2503, 2378, 2683, 2475, 3158, 3824, 1170, 1560, 2901, 1313, 2416, 3694, 1703, 2084, 3501, 3194, 1300]
+Range: 3940
+Mean Absolute Deviation: 953.8664000000001
+Variance: 1259010.976161616
+Standard Deviation: 1122.0565833154833
+Coefficient of Variation: 0.37671108969283257
+Interquartile Range: 1845
+
