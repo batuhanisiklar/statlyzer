@@ -69,7 +69,7 @@ data-stats-analyzer/
 To install dependencies:
 
 ```bash
-pip install pandas matplotlib
+pip install -r requriements.txt
 ```
 
 ---
